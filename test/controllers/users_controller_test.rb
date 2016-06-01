@@ -1,4 +1,4 @@
-grequire 'test_helper'
+require 'test_helper'
 
 class UsersControllerTest < ActionController::TestCase
   setup do
